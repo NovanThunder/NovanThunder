@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NovanThunder
 - 👀 I’m interested in Ethical hacking, software development, Network administration
-- 🌱 I’m currently learning python, program, VM administration
+- 🌱 I’m currently learning python, programming, VM administration
 - 💞️ I’m looking to collaborate on App Development
 - 📫 Novanet.logistics@gmail.com
 
